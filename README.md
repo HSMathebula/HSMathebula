@@ -9,7 +9,7 @@ const HSMathebula = {
   askMeAbout: Anything,
   challenge: "I am honing my JavaScript skills and picking up React",
   funFacts: ['I am currently a Student at Microverse', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  'I am preparing myself for a right offer']
 }
 ```
 ```
