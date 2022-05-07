@@ -14,5 +14,3 @@ const HSMathebula = {
 
 JavaScript   11 hrs 53 mins  █████████████████████████   99.35 %
 SCSS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
