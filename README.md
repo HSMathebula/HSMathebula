@@ -1,7 +1,7 @@
 ### Hi, I'm Happen S Mathebula 👋
 
 ### Introduction of myself
-
+```js
 const HSMathebula = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
@@ -11,7 +11,9 @@ const HSMathebula = {
   funFacts: ['I am currently a Student at Microverse', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
-
+```
+```
 JavaScript   11 hrs 53 mins  █████████████████████████   99.35 %
 
 SCSS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+```
