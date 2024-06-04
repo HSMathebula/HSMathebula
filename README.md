@@ -8,7 +8,7 @@ const HSMathebula = {
   code: [JavaScript, Ruby, React, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
   askMeAbout: Anything,
   challenge: "I am honing my JavaScript skills and picking up React",
-  funFacts: ['I am currently a Student at Microverse', 
+  funFacts: ['I am currently a Student at Umuzi', 
   'I am preparing myself for a right offer']
 }
 ```
