@@ -5,11 +5,10 @@
 const HSMathebula = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, Ruby, React, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
+  code: [JavaScript, Ruby, React, HTML/CSS, Semantic UI, Bootstrap],
   askMeAbout: Anything,
   challenge: "I am honing my JavaScript skills and picking up React",
-  funFacts: ['I am currently a Student at Umuzi', 
-  'I am preparing myself for a right offer']
+  funFacts: ['I am currently a Student at Umuzi']
 }
 ```
 ```
